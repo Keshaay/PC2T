@@ -1,5 +1,5 @@
 # PC2T
 Projekt
- ________________________________________________________________
-|Vypracovan neskutecnou dvojickou Martin Poč a Elena Melicharova |
-|________________________________________________________________|
+ _______________________________________________________________
+Vypracovan neskutecnou dvojickou Martin Poč a Elena Melicharova 
+
