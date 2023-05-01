@@ -1,5 +1,5 @@
 # PC2T
 Projekt
  _______________________________________________________________
-Vypracovano Martinem Poče a Elenou Melicharovou 
+Vypracovano Martinem Počem a Elenou Melicharovou 
 
